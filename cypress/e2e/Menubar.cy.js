@@ -4,6 +4,7 @@ describe('Responsive Menu Display Test', () => {
       { name: 'tablet', width: 768, height: 1024 },
       { name: 'mobile', width: 375, height: 812 }
     ];
+    //set item
   
     const menuItems = {
       desktop: ['Home', 'About', 'Process', 'Pricing', 'FAQ', 'Blog', 'Contact Us'],
